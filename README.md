@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/JFAquinoPando/place-my-order.png?branch=master)](https://travis-ci.org/JFAquinoPando/place-my-order)
 # place-my-order
 
 Welcome to the place-my-order DoneJS application!
